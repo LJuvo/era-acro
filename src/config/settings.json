@@ -1,0 +1,12 @@
+{
+  "theme": "light",
+  "colorWeek": false,
+  "navbar": true,
+  "menu": true,
+  "menuCollapse": false,
+  "footer": true,
+  "themeColor": "#165DFF",
+  "menuWidth": 220,
+  "globalSettings": false,
+  "domain": "http://127.0.0.1:7001"
+}
